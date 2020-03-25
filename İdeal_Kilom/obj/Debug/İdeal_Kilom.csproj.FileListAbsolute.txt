@@ -1,0 +1,9 @@
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.csprojAssemblyReference.cache
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.Form1.resources
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.Properties.Resources.resources
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.csproj.GenerateResource.cache
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\bin\Debug\İdeal_Kilom.exe.config
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\bin\Debug\İdeal_Kilom.exe
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\bin\Debug\İdeal_Kilom.pdb
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.exe
+C:\Users\Uygur\source\repos\İdeal_Kilom\İdeal_Kilom\obj\Debug\İdeal_Kilom.pdb
